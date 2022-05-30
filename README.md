@@ -1,2 +1,3 @@
 # Dracula_rice
-i3-gaps - Arch linux - Dracula
+
+Note: Must change the path for ewwbar.py in the i3 config.
